@@ -2,5 +2,9 @@
   {
     "package": "RplotterPkg",
     "url": "https://github.com/deandevl/RplotterPkg"
+  },
+  {
+    "package": "RcensusPkg",
+    "url": "https://github.com/deandevl/RcensusPkg"
   }
 ]
